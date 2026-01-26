@@ -1,3 +1,5 @@
+![banner](img/banner1.png)
+
 <h2 align="center">My Skills</h2>
 
 ###
